@@ -1,2 +1,3 @@
 # toy_ds_project
-#Project creation date: February 2, 2026
+Project creation date: February 2, 2026
+Author: Selena Xu
